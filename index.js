@@ -1,4 +1,5 @@
 const h1 = document.getElementById("main-title");
+const div = document.getElementById("main-div");
 console.log(h1);
 
 h1.classList.remove("red");
